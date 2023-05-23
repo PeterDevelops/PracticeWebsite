@@ -3,9 +3,11 @@ body {
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
-    height: 100vh;
     display: flex;
     flex-direction: column;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    height: 100vh;
 }
 .logo {
     font-weight: 500;
@@ -32,7 +34,26 @@ a {
     color: white;
 }
 .profile {
-    height: 350px;
-    border: 3px solid green;
+    height: 400px;
+    border: 3px solid rgb(199, 58, 58);
     border-radius: 5px;
+    margin: 0 10px;;
+}
+.maintext {
+    font-size: 16px;
+}
+.content {
+    display: flex;
+    width: 800px;
+    color: white;
+}
+.contentcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.welcome {
+    font-size: 45px;
+    font-weight: 800;
 }
