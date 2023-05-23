@@ -7,7 +7,7 @@
     font-weight: 500;
     font-style: italic;
     color: white;
-    margin: 0 10px;
+    margin: 0 25px;
 }
 nav {
     display: flex;
@@ -20,7 +20,8 @@ ul {
     display: flex;
     gap: 20px;
     list-style-type: none;
-    margin: 0 10px;
+    margin: 0 25px;
+    font-size: 17px;
 }
 a {
     text-decoration: none;
