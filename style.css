@@ -7,3 +7,16 @@
     font-weight: 500;
     font-style: italic;
 }
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
