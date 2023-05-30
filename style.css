@@ -62,15 +62,20 @@ a {
 }
 .aboutme {
     font-size: 25px;
-    font-weight: 500;
+    font-weight: 400;
 }
 /*--------------------------- Home for Sale Section ------------------------------*/
 .homecontainer {
     border: 2px solid blue;
-    height: 300px;
+    height: 500px;
 }
 .title-home {
     text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+.firstphoto {
+    width: 300px;
 }
 /*--------------------------- Footer Section ------------------------------------*/
 /* footer {
