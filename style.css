@@ -65,6 +65,10 @@ a {
     font-weight: 500;
 }
 /*--------------------------- Home for Sale Section ------------------------------*/
+.homecontainer {
+    border: 2px solid blue;
+    height: 300px;
+}
 .title-home {
     text-align: center;
 }
