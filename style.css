@@ -75,7 +75,16 @@ a {
     font-weight: 400;
 }
 .firstphoto {
-    width: 300px;
+    width: 250px;
+}
+.firstcontainer {
+    height: 300px;
+    width: 250px;
+    border: 3px solid red;
+    
+}
+.heart {
+    width: 20px;
 }
 /*--------------------------- Footer Section ------------------------------------*/
 /* footer {
