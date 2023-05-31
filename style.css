@@ -74,17 +74,29 @@ a {
     font-size: 32px;
     font-weight: 400;
 }
+/*------------- First Home ---------*/
 .firstphoto {
-    width: 250px;
+    width: 280px;
 }
 .firstcontainer {
-    height: 300px;
-    width: 250px;
+    height: 400px;
+    width: 280px;
     border: 3px solid red;
-    
 }
 .heart {
     width: 20px;
+    margin-left: auto;
+}
+.vertical-line {
+    border-left: 1px solid black;
+    height: 15px;
+}
+.house1container {
+    display: flex;
+    font-weight: 300;
+    font-size: 12px;
+    gap: 5px;
+    margin: 0 6px;
 }
 /*--------------------------- Footer Section ------------------------------------*/
 /* footer {
