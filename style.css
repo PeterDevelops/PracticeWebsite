@@ -110,6 +110,9 @@ a {
     margin-top: auto;
     border: 2px solid ;
 } */
+.address {
+    font-weight: 300;
+}
 
 /*--------------------------- Footer Section ------------------------------------*/
 /* footer {
