@@ -68,6 +68,9 @@ a {
 .homecontainer {
     border: 2px solid blue;
     height: 500px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
 }
 .title-home {
     text-align: center;
@@ -101,15 +104,19 @@ a {
 .save {
     color: rgb(207, 39, 39);
 }
+/* Dollar Section */
 .info {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+}
+ .bottomcard { 
+    display: flex;
+
+    justify-content: space-between;
+    border: 2px solid;
     margin-bottom: auto;
 }
-/* .bottomcard { 
-     display: flex;
-    justify-content: space-between;
-    margin-top: auto;
-    border: 2px solid ;
-} */
 .address {
     font-weight: 300;
 }
