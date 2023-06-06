@@ -66,11 +66,8 @@ a {
 }
 /*--------------------------- Home for Sale Section ------------------------------*/
 .homecontainer {
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     height: 500px;
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
 }
 .title-home {
     text-align: center;
@@ -82,9 +79,10 @@ a {
     width: 280px;
 }
 .firstcontainer {
-    height: 400px;
     width: 280px;
     border: 2px solid red;
+    display: flex;
+    flex-direction: column;
 }
 .heart {
     width: 20px;
@@ -99,7 +97,7 @@ a {
     font-weight: 300;
     font-size: 12px;
     gap: 5px;
-    margin: 0 6px;
+    margin: 4px 2px
 }
 .save {
     color: rgb(207, 39, 39);
@@ -108,13 +106,13 @@ a {
 .info {
     display: flex;
     flex-direction: column;
-    border: 2px solid red;
+    justify-content: center;
+    height: 150px;
+    /* border: 2px solid red; */
 }
  .bottomcard { 
     display: flex;
-
     justify-content: space-between;
-    border: 2px solid;
     margin-bottom: auto;
 }
 .address {
