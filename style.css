@@ -97,7 +97,7 @@ a {
     font-weight: 300;
     font-size: 12px;
     gap: 5px;
-    margin: 4px 2px
+    margin: 4px 6px;
 }
 .save {
     color: rgb(207, 39, 39);
@@ -108,12 +108,13 @@ a {
     flex-direction: column;
     justify-content: center;
     height: 150px;
+    margin: 0 6px;
     /* border: 2px solid red; */
 }
  .bottomcard { 
     display: flex;
     justify-content: space-between;
-    margin-bottom: auto;
+    margin: 4px 6px;
 }
 .address {
     font-weight: 300;
