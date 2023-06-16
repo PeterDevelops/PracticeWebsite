@@ -115,6 +115,10 @@ a {
 .address {
     font-weight: 300;
 }
+.price1 {
+    font-weight: 500;
+    font-size: 22px;
+}
 /*--------------------------- Footer Section ------------------------------------*/
 /* footer {
     background-color: rgb(121, 226, 226);
