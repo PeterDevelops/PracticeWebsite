@@ -65,6 +65,8 @@ a {
 /*--------------------------- Home for Sale Section ------------------------------*/
 .homecontainer {
     height: 500px;
+    display: flex;
+    flex: 1;
 }
 .title-home {
     text-align: center;
