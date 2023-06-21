@@ -63,8 +63,10 @@ a {
     font-weight: 400;
 }
 /*--------------------------- Home for Sale Section ------------------------------*/
+.cardcontainer {
+    height: 800px;
+}
 .homecontainer {
-    height: 500px;
     display: flex;
     flex: 1;
 }
