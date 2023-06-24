@@ -68,7 +68,6 @@ a {
 }
 .homecontainer {
     display: flex;
-    flex: 1;
     justify-content: center;
     gap: 25px;
 }
