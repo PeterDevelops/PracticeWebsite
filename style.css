@@ -127,6 +127,7 @@ a {
 }
 .secondcard {
     display: flex;
+    justify-content: center;
 }
 /*--------------------------- Footer Section ------------------------------------*/
 /* footer {
