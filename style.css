@@ -125,6 +125,9 @@ a {
     font-weight: 500;
     font-size: 22px;
 }
+.secondcard {
+    display: flex;
+}
 /*--------------------------- Footer Section ------------------------------------*/
 /* footer {
     background-color: rgb(121, 226, 226);
