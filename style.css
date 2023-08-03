@@ -82,7 +82,7 @@ a {
 }
 .firstcontainer {
     width: 280px;
-    border: 2px solid red;
+    border: 2px solid black;
     display: flex;
     flex-direction: column;
 }
